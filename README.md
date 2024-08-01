@@ -1,5 +1,5 @@
 # Front-End Practice
 
-Pure CSS
-Time taken: 30 Minutes (Speedrunning in English Class)
+Pure CSS <br>
+Time taken: 30 Minutes (Speedrunning in English Class) <br>
 Original Idea: iCodeThis
